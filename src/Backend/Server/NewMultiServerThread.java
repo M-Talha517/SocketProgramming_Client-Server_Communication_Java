@@ -1,3 +1,5 @@
+// NEW MULTI-SERVER CLASS FOR GUI
+
 package Backend.Server;
 
 import models.Coach;
